@@ -8,4 +8,4 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-**Úvod do analýzy dat v R**
+[**Úvod do analýzy dat v R**](https://alesvomacka.github.io/Uvod_do_analyzy_dat_v_R/)
