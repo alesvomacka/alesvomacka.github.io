@@ -1,0 +1,11 @@
+name: "Aleš Vomáčka"
+output_dir: "."
+navbar:
+  title: "Aleš Vomáčka"
+  left:
+    - text: "Vyučované kurzy"
+      href: courses.html
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'

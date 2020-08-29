@@ -1,0 +1,11 @@
+---
+title: "Vyučované kurzy"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+**Úvod do analýzy dat v R**
